@@ -1,8 +1,6 @@
 # Combining CSVs With Slightly Different Schemas
 
-<center>
-<img style="margin-top:0px;margin-left:0px;width:25vw" src="https://www.dropbox.com/scl/fi/9ff47a76dgt88483dskxm/combining_csvs_post_image.png?rlkey=q6twco5fnr7ly4sw9dtgpvlsc&raw=1" alt="Image showing three CSV files being merged into a single file.">
-</center>
+<img style="margin-top:0px;margin-left:0px;width:50vw" src="https://www.dropbox.com/scl/fi/9ff47a76dgt88483dskxm/combining_csvs_post_image.png?rlkey=q6twco5fnr7ly4sw9dtgpvlsc&raw=1" alt="Image showing three CSV files being merged into a single file.">
 
 I was asked a question the other day, one that I hear often from clients:
 
