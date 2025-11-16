@@ -1,0 +1,332 @@
+school_id,school_year,standardized_school_name,original_school_name,year_school_opened,is_elementary_school,is_middle_school,is_high_school,is_other_school,admission_type,governance,serves_grade_k,serves_grade_1,serves_grade_2,serves_grade_3,serves_grade_4,serves_grade_5,serves_grade_6,serves_grade_7,serves_grade_8,serves_grade_9,serves_grade_10,serves_grade_11,serves_grade_12
+1010,2023-2024,John Bartram High School,John Bartram High School,1939,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+1020,2023-2024,West Philadelphia High School,West Philadelphia High School,1911,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+1030,2023-2024,High School of the Future,High School of the Future,2006,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+1050,2023-2024,Paul Robeson High School for Human Services,Paul Robeson High School for Human Services,2003,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+1100,2023-2024,William L. Sayre High School,William L. Sayre High School,1950,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+1130,2023-2024,William T. Tilden School,William T. Tilden School,1927,0,1,0,0,Catchment,District,0,0,0,0,0,1,1,1,1,0,0,0,0
+1190,2023-2024,Motivation High School,Motivation High School,2004,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+1200,2023-2024,John Barry School,John Barry School,2007,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1230,2023-2024,William C. Bryant School,William C. Bryant School,1903,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1250,2023-2024,Joseph W. Catharine School,Joseph W. Catharine School,1937,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+1260,2023-2024,Benjamin B. Comegys School,Benjamin B. Comegys School,1911,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1280,2023-2024,Sadie Alexander School,Sadie Alexander School,2001,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1290,2023-2024,Andrew Hamilton School,Andrew Hamilton School,1970,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1300,2023-2024,Avery D. Harrington School,Avery D. Harrington School,1927,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1340,2023-2024,Henry C. Lea School,Henry C. Lea School,1914,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1350,2023-2024,William C. Longstreth School,William C. Longstreth School,1971,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1360,2023-2024,Morton McMichael School,Morton McMichael School,1963,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1370,2023-2024,S. Weir Mitchell School,S. Weir Mitchell School,1916,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1380,2023-2024,Thomas G. Morton School,Thomas G. Morton School,1971,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+1390,2023-2024,Samuel Powel School,Samuel Powel School,1961,1,0,0,0,Catchment,District,1,1,1,1,1,0,0,0,0,0,0,0,0
+1400,2023-2024,John M. Patterson School,John M. Patterson School,1921,1,0,0,0,Catchment,District,1,1,1,1,1,0,0,0,0,0,0,0,0
+1410,2023-2024,James Rhoads School,James Rhoads School,1960,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1420,2023-2024,Martha Washington School,Martha Washington School,1930,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1440,2023-2024,Penrose School,Penrose School,1971,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1460,2023-2024,Add B. Anderson School,Add B. Anderson School,1963,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1470,2023-2024,Alain Locke School,Alain Locke School,1964,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1490,2023-2024,Rudolph Blankenburg School,Rudolph Blankenburg School,1925,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+1580,2023-2024,Middle Years Alternative School,Middle Years Alternative School,1972,0,1,0,0,Citywide,District,0,0,0,0,0,1,1,1,1,0,0,0,0
+2000,2023-2024,South Philadelphia High School,South Philadelphia High School,1957,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2010,2023-2024,Benjamin Franklin High School,Benjamin Franklin High School,1958,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2020,2023-2024,High School for Creative and Performing Arts,High School for Creative and Performing Arts,1997,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2050,2023-2024,Science Leadership Academy Middle School,Science Leadership Academy Middle School,2016,0,1,0,0,Catchment,District,0,0,0,0,0,1,1,1,1,0,0,0,0
+2140,2023-2024,Julia R. Masterman School,Julia R. Masterman School,1933,0,1,1,0,Criteria-Based,District,0,0,0,0,0,1,1,1,1,1,1,1,1
+2160,2023-2024,Furness High School,Furness High School,1912,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2190,2023-2024,D. Newlin Fell School,D. Newlin Fell School,1924,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2210,2023-2024,Bache-Martin School,Bache-Martin School,1906,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2240,2023-2024,F. Amedee Bregy School,F. Amedee Bregy School,1923,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2260,2023-2024,George W. Childs School,George W. Childs School,1927,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2290,2023-2024,Franklin Learning Center,Franklin Learning Center,1978,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2310,2023-2024,Achieve Academy,Achieve Academy,2004,0,1,1,0,Alternative,Contracted,0,0,0,0,0,0,1,1,1,1,1,1,1
+2320,2023-2024,Stephen Girard School,Stephen Girard School,1959,1,0,0,0,Catchment,District,1,1,1,1,1,0,0,0,0,0,0,0,0
+2340,2023-2024,General George A. McCall School,General George A. McCall School,1909,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2370,2023-2024,Delaplaine McDaniel School,Delaplaine McDaniel School,1937,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2380,2023-2024,William M. Meredith School,William M. Meredith School,1931,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2390,2023-2024,Robert Morris School,Robert Morris School,1964,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2410,2023-2024,Girard Academic Music Program,Girard Academic Music Program,1914,0,1,1,0,Criteria-Based,District,0,0,0,0,0,1,1,1,1,1,1,1,1
+2450,2023-2024,Edwin M. Stanton School,Edwin M. Stanton School,1926,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2470,2023-2024,Albert M. Greenfield School,Albert M. Greenfield School,1970,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2480,2023-2024,Marian Anderson Neighborhood Academy,Marian Anderson Neighborhood Academy,1964,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2490,2023-2024,Laura W. Waring School,Laura W. Waring School,1956,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2510,2023-2024,Fanny Jackson Coppin School,Fanny Jackson Coppin School,1925,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2520,2023-2024,Abram S. Jenks School,Abram S. Jenks School,1897,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+2530,2023-2024,Phila. Juv. Justice Services Ctr.,Phila. Juv. Justice Services Ctr.,2012,0,1,1,0,Alternative,District,1,1,1,1,1,1,1,1,1,1,1,1,1
+2540,2023-2024,Francis S. Key School,Francis S. Key School,1889,1,0,0,0,Catchment,District,1,1,1,1,1,1,1,0,0,0,0,0,0
+2580,2023-2024,Eliza B. Kirkbride School,Eliza B. Kirkbride School,1926,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2590,2023-2024,George W. Nebinger School,George W. Nebinger School,1925,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2620,2023-2024,Academy at Palumbo,Academy at Palumbo,2006,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2630,2023-2024,George W. Sharswood School,George W. Sharswood School,1906,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2640,2023-2024,Southwark School,Southwark School,1905,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2650,2023-2024,Science Leadership Academy,Science Leadership Academy,2006,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2670,2023-2024,Constitution High School,Constitution High School,2006,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+2680,2023-2024,The Science Leadership Academy at Beeber,The Science Leadership Academy at Beeber,2014,0,1,1,0,Criteria-Based,District,0,0,0,0,0,1,1,1,1,1,1,1,1
+2690,2023-2024,John H. Taggart School,John H. Taggart School,1917,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+2720,2023-2024,Vare-Washington School,Vare-Washington School,1903,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+3040,2023-2024,Excel Middle Years Academy,Excel Middle Years Academy,2017,0,1,0,0,Alternative,Contracted,0,0,0,0,0,0,1,1,1,0,0,0,0
+3190,2023-2024,Crossroads at Hunting Park,Crossroads at Hunting Park,2011,1,0,0,0,Alternative,District,0,0,0,1,1,1,1,0,0,0,0,0,0
+3210,2023-2024,Ben Franklin High School EOP,Ben Franklin High School EOP,2012,0,0,1,0,Alternative,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+3240,2023-2024,Liguori Academy-Fortis,Liguori Academy-Fortis,2017,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+3290,2023-2024,Excel Academy South,Excel Academy South,2008,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+3291,2023-2024,Excel Academy Central,Excel Academy Central,2023,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+3292,2023-2024,The Academy of Continued Education (ACE) School,The Academy of Continued Education (ACE) School,,0,0,0,1,,,,,,,,,,,,,,,
+3301,2023-2024,Community Academy of Philadelphia Charter School,Community Academy of Philadelphia Charter School,1997,1,1,1,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3302,2023-2024,Harambee Institute of Science and Technology Charter School,Harambee Institute of Science and Technology Charter School,1997,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3304,2023-2024,YouthBuild Philadelphia Charter School,YouthBuild Philadelphia Charter School,1997,0,0,1,0,Citywide With Criteria,Charter,0,0,0,0,0,0,0,0,0,0,0,0,1
+3306,2023-2024,Christopher Columbus Charter School,Christopher Columbus Charter School,1999,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3307,2023-2024,Eugenio Maria De Hostos Charter School,Eugenio Maria De Hostos Charter School,1998,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3308,2023-2024,Inquiry Charter School,Inquiry Charter School,1998,1,0,0,0,Citywide,Charter,1,1,1,1,1,1,0,0,0,0,0,0,0
+3309,2023-2024,Imhotep Institute Charter High School,Imhotep Institute Charter High School,1998,0,0,1,0,Citywide,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3310,2023-2024,Laboratory Charter School of Communication and Languages,Laboratory Charter School of Communication and Languages,1998,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3312,2023-2024,Multicultural Academy Charter School,Multicultural Academy Charter School,1998,0,0,1,0,Citywide,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3313,2023-2024,"Preparatory Charter School of Mathematics, Science, Technology and Careers","Preparatory Charter School of Mathematics, Science, Technology and Careers",1998,0,0,1,0,Citywide,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3314,2023-2024,West Oak Lane Charter School,West Oak Lane Charter School,1998,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3315,2023-2024,Alliance For Progress Charter School,Alliance For Progress Charter School,1998,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,0,0,0,0,0,0,0
+3318,2023-2024,Freire Charter School,Freire Charter School,1999,0,1,1,0,Citywide,Charter,0,0,0,0,0,1,1,1,1,1,1,1,1
+3321,2023-2024,"Math, Civics and Sciences Charter School","Math, Civics and Sciences Charter School",1999,1,1,1,0,Citywide,Charter,0,1,1,1,1,1,1,1,1,1,1,1,1
+3322,2023-2024,Philadelphia Academy Charter School,Philadelphia Academy Charter School,1999,1,1,1,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3323,2023-2024,Mastery Charter School at Hardy Williams,Mastery Charter School at Hardy Williams,1999,1,1,1,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3326,2023-2024,Universal Institute Charter School,Universal Institute Charter School,1999,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3328,2023-2024,"Mathematics, Science, and Technology Community Charter School (MaST)","Mathematics, Science, and Technology Community Charter School (MaST)",1999,1,1,1,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3329,2023-2024,Young Scholars Charter School,Young Scholars Charter School,1999,0,1,0,0,Citywide,Charter,0,0,0,0,0,0,1,1,1,0,0,0,0
+3331,2023-2024,Franklin Towne Charter High School,Franklin Towne Charter High School,2000,0,0,1,0,Citywide With Criteria,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3332,2023-2024,Mariana Bracetti Academy Charter School,Mariana Bracetti Academy Charter School,2000,1,1,1,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3333,2023-2024,Esperanza Academy Charter School,Esperanza Academy Charter School,2000,1,1,1,0,Citywide,Charter,0,0,0,0,0,1,1,1,1,1,1,1,1
+3334,2023-2024,New Foundations Charter School,New Foundations Charter School,2000,1,1,1,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3335,2023-2024,People for People Charter School,People for People Charter School,2001,1,1,1,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3336,2023-2024,Philadelphia Performing Arts: A String Theory Charter School,Philadelphia Performing Arts: A String Theory Charter School,2000,1,1,1,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3337,2023-2024,Global Leadership Academy Charter School,Global Leadership Academy Charter School,2000,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3341,2023-2024,Independence Charter School,Independence Charter School,2001,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3353,2023-2024,KIPP DuBois Charter School,KIPP DuBois Charter School,2015,0,0,1,0,Citywide With Criteria,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3357,2023-2024,West Philadelphia Achievement Charter School,West Philadelphia Achievement Charter School,2002,1,0,0,0,Citywide,Charter,1,1,1,1,1,1,0,0,0,0,0,0,0
+3358,2023-2024,Philadelphia Electrical and Technology Charter School,Philadelphia Electrical and Technology Charter School,2002,0,0,1,0,Citywide,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3359,2023-2024,Richard Allen Preparatory Charter School,Richard Allen Preparatory Charter School,2001,0,1,0,0,Citywide,Charter,0,0,0,0,0,1,1,1,1,0,0,0,0
+3360,2023-2024,Russell Byers Charter School,Russell Byers Charter School,2001,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3361,2023-2024,Mastery Charter School at Lenfest,Mastery Charter School at Lenfest,2001,0,1,1,0,Citywide With Criteria,Charter,0,0,0,0,0,0,0,1,1,1,1,1,1
+3362,2023-2024,Wissahickon Charter School,Wissahickon Charter School,2002,1,1,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3364,2023-2024,First Philadelphia Preparatory Charter School,First Philadelphia Preparatory Charter School,2002,1,1,1,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3365,2023-2024,Green Woods Charter School,Green Woods Charter School,2002,1,1,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3366,2023-2024,Maritime Academy Charter School (MACHS),Maritime Academy Charter School (MACHS),2003,1,1,1,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3368,2023-2024,Belmont Charter School,Belmont Charter School,2005,1,1,1,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3370,2023-2024,KIPP Philadelphia Charter School,KIPP Philadelphia Charter School,2003,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3372,2023-2024,Discovery Charter School,Discovery Charter School,2003,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3378,2023-2024,Philadelphia Montessori Charter School,Philadelphia Montessori Charter School,2004,1,0,0,0,Citywide,Charter,1,1,1,1,1,1,1,0,0,0,0,0,0
+3379,2023-2024,Ad Prima Charter School,Ad Prima Charter School,2004,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3383,2023-2024,Mastery Charter School at Shoemaker,Mastery Charter School at Shoemaker,2006,0,1,1,0,Citywide With Criteria,Charter,0,0,0,0,0,0,0,1,1,1,1,1,1
+3384,2023-2024,Folk Arts-Cultural Treasures Charter School,Folk Arts-Cultural Treasures Charter School,2005,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3385,2023-2024,Mastery Charter School at Thomas Campus,Mastery Charter School at Thomas Campus,2005,1,1,1,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3386,2023-2024,Northwood Academy Charter School,Northwood Academy Charter School,2005,1,1,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3388,2023-2024,Boys Latin of Philadelphia Charter School,Boys Latin of Philadelphia Charter School,2007,0,1,1,0,Citywide,Charter,0,0,0,0,0,0,1,1,1,1,1,1,1
+3389,2023-2024,Keystone Academy Charter School,Keystone Academy Charter School,2007,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3392,2023-2024,Southwest Leadership Academy Charter School,Southwest Leadership Academy Charter School,2007,1,1,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3393,2023-2024,Mastery Charter School at Pickett,Mastery Charter School at Pickett,2007,0,1,1,0,Citywide With Criteria,Charter,0,0,0,0,0,0,1,1,1,1,1,1,1
+3394,2023-2024,Pan American Academy Charter School,Pan American Academy Charter School,2008,1,1,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3395,2023-2024,Antonia Pantoja Charter School,Antonia Pantoja Charter School,2008,1,1,0,0,Citywide,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3399,2023-2024,Sankofa Freedom Academy Charter School,Sankofa Freedom Academy Charter School,2009,1,1,1,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3403,2023-2024,Franklin Towne Charter Elementary School,Franklin Towne Charter Elementary School,2009,1,1,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3404,2023-2024,Tacony Academy Charter School,Tacony Academy Charter School,2009,1,1,1,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,1,1,1,1
+3407,2023-2024,Mastery Charter School at Harrity,Mastery Charter School at Harrity,2010,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3408,2023-2024,Mastery Charter School at Mann,Mastery Charter School at Mann,2010,1,0,0,0,Catchment,Charter,1,1,1,1,1,1,1,0,0,0,0,0,0
+3409,2023-2024,Mastery Charter School at Smedley,Mastery Charter School at Smedley,2010,1,0,0,0,Catchment,Charter,1,1,1,1,1,1,1,0,0,0,0,0,0
+3412,2023-2024,Mastery Charter School at Douglass,Mastery Charter School at Douglass,2010,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3415,2023-2024,Mastery Charter School at Clymer,Mastery Charter School at Clymer,2011,1,0,0,0,Catchment,Charter,1,1,1,1,1,1,1,0,0,0,0,0,0
+3416,2023-2024,Mastery Charter School at Gratz,Mastery Charter School at Gratz,2011,0,1,1,0,Catchment,Charter,0,0,0,0,0,0,0,1,1,1,1,1,1
+3417,2023-2024,Universal Charter School at Audenried,Universal Charter School at Audenried,2011,0,0,1,0,Catchment,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3418,2023-2024,Universal Charter School at Vare,Universal Charter School at Vare,2011,0,1,0,0,Catchment,Charter,0,0,0,0,0,1,1,1,1,0,0,0,0
+3419,2023-2024,Lindley Academy Charter at Birney,Lindley Academy Charter at Birney,2011,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3420,2023-2024,Mastery Charter School at Cleveland,Mastery Charter School at Cleveland,2012,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3421,2023-2024,Universal Charter School at Creighton,Universal Charter School at Creighton,2012,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3422,2023-2024,The Philadelphia Charter School for Arts and Sciences,The Philadelphia Charter School for Arts and Sciences,2012,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3423,2023-2024,Memphis Street Academy Charter School at J.P. Jones,Memphis Street Academy Charter School at J.P. Jones,2012,0,1,0,0,Catchment,Charter,0,0,0,0,0,1,1,1,1,0,0,0,0
+3424,2023-2024,Universal Charter School at Alcorn,Universal Charter School at Alcorn,2013,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3426,2023-2024,Mastery Charter School at Pastorius,Mastery Charter School at Pastorius,2013,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3427,2023-2024,Mastery Charter School at Wister,Mastery Charter School at Wister,2016,1,0,0,0,Catchment,Charter,1,1,1,1,1,1,0,0,0,0,0,0,0
+3428,2023-2024,Global Leadership Academy at Huey,Global Leadership Academy at Huey,2016,1,1,0,0,Catchment,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3436,2023-2024,KIPP Octavius Catto Charter School,KIPP Octavius Catto Charter School,2022,1,0,0,0,Citywide,Charter,1,1,1,0,0,0,0,0,0,0,0,0,0
+3437,2023-2024,KIPP North Philadelphia Charter School,KIPP North Philadelphia Charter School,2018,1,0,0,0,Citywide,Charter,1,1,1,1,1,1,0,0,0,0,0,0,0
+3438,2023-2024,Deep Roots Charter School,Deep Roots Charter School,2018,1,0,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,0,0,0,0,0,0,0
+3439,2023-2024,Mastery Prep Elementary Charter School,Mastery Prep Elementary Charter School,2018,1,0,0,0,Citywide,Charter,1,1,1,1,0,0,0,0,0,0,0,0,0
+3440,2023-2024,MaST Community Charter School II,MaST Community Charter School II,2016,1,0,1,0,Citywide,Charter,1,1,1,1,1,1,1,0,0,1,0,0,0
+3441,2023-2024,TECH Freire Charter School,TECH Freire Charter School,2016,0,0,1,0,Citywide With Criteria,Charter,0,0,0,0,0,0,0,0,0,1,1,1,1
+3442,2023-2024,Independence Charter School West,Independence Charter School West,2016,1,1,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3443,2023-2024,KIPP West Philadelphia Charter School,KIPP West Philadelphia Charter School,2016,1,0,0,0,Citywide,Charter,1,1,1,1,1,0,0,0,0,0,0,0,0
+3445,2023-2024,MAST III Charter School,MAST III Charter School,2019,1,0,0,0,Citywide With Criteria,Charter,1,1,1,1,1,1,1,1,1,0,0,0,0
+3446,2023-2024,Philadelphia Hebrew Public Charter School,Philadelphia Hebrew Public Charter School,2019,1,0,0,0,Citywide,Charter,1,1,0,0,0,0,0,0,0,0,0,0,0
+3510,2023-2024,El Centro de Estudiantes (Big Picture),El Centro de Estudiantes (Big Picture),2009,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+3810,2023-2024,One Bright Ray - Elmwood Campus,One Bright Ray - Elmwood Campus,2015,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+3820,2023-2024,Achieve Academy East,Achieve Academy East,2016,0,1,1,0,Alternative,Contracted,0,0,0,0,0,0,1,1,1,1,1,1,1
+3850,2023-2024,Northeast High School EOP,Northeast High School EOP,2016,0,0,1,0,Alternative,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+3880,2023-2024,South Philadelphia High School EOP,South Philadelphia High School EOP,2008,0,0,1,0,Alternative,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+4020,2023-2024,Overbrook High School,Overbrook High School,1926,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+4030,2023-2024,High School of Engineering and Science,High School of Engineering and Science,1949,0,1,1,0,Criteria-Based,District,0,0,0,0,0,0,0,1,1,1,1,1,1
+4060,2023-2024,Murrell Dobbins Career and Technical High School,Murrell Dobbins Career and Technical High School,1938,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+4140,2023-2024,Strawberry Mansion High School,Strawberry Mansion High School,1964,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+4220,2023-2024,James G. Blaine School,James G. Blaine School,1966,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4240,2023-2024,Lewis C. Cassidy Academics Plus School,Lewis C. Cassidy Academics Plus School,1924,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4270,2023-2024,William Dick School,William Dick School,1954,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4280,2023-2024,Samuel Gompers School,Samuel Gompers School,1968,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4300,2023-2024,Edward Heston School,Edward Heston School,1970,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4320,2023-2024,Robert E. Lamberton School,Robert E. Lamberton School,1949,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4350,2023-2024,E. Washington Rhodes School,E. Washington Rhodes School,2013,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4360,2023-2024,Kenderton Elementary School,Kenderton Elementary School,2016,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4370,2023-2024,Overbrook Elementary School,Overbrook Elementary School,1990,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4380,2023-2024,Thomas M. Peirce School,Thomas M. Peirce School,1908,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+4440,2023-2024,Dr. Ethel Allen School,Dr. Ethel Allen School,1971,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4460,2023-2024,Tanner G. Duckrey School,Tanner G. Duckrey School,1968,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4470,2023-2024,Richard R. Wright School,Richard R. Wright School,1970,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+4480,2023-2024,Overbrook Educational Center,Overbrook Educational Center,1986,1,1,0,0,Citywide,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4520,2023-2024,Guion S. Bluford Elementary School,Guion S. Bluford Elementary School,2023,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4530,2023-2024,Edward Gideon School,Edward Gideon School,1952,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4560,2023-2024,William D. Kelley School,William D. Kelley School,1965,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+4570,2023-2024,General George G. Meade School,General George G. Meade School,1937,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5020,2023-2024,Thomas A. Edison High School,Thomas A. Edison High School,1985,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5033,2023-2024,Student Transition Center,Student Transition Center,,0,0,0,1,,,,,,,,,,,,,,,
+5050,2023-2024,Philadelphia Military Academy,Philadelphia Military Academy,2005,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5060,2023-2024,Jules E. Mastbaum Area Vocational Technical High School,Jules E. Mastbaum Area Vocational Technical High School,1929,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5070,2023-2024,Parkway Northwest High School,Parkway Northwest High School,1960,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5080,2023-2024,Parkway Center City Middle College High School,Parkway Center City Middle College High School,2005,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5090,2023-2024,Parkway West High School,Parkway West High School,2004,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5150,2023-2024,William W. Bodine High School,William W. Bodine High School,1935,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5160,2023-2024,Penn Treaty High School,Penn Treaty High School,2013,0,1,1,0,Catchment,District,0,0,0,0,0,0,1,1,1,1,1,1,1
+5170,2023-2024,Julia de Burgos School,Julia de Burgos School,1903,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5180,2023-2024,Vaux High School: A Big Picture,Vaux High School: A Big Picture,2017,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5200,2023-2024,Alexander Adaire School,Alexander Adaire School,1957,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5210,2023-2024,Henry A. Brown School,Henry A. Brown School,1959,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5230,2023-2024,Russell H. Conwell School,Russell H. Conwell School,1926,0,1,0,0,Criteria-Based,District,0,0,0,0,0,1,1,1,1,0,0,0,0
+5250,2023-2024,Paul L. Dunbar School,Paul L. Dunbar School,1932,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5260,2023-2024,Lewis Elkin School,Lewis Elkin School,1973,1,0,0,0,Catchment,District,1,1,1,1,1,0,0,0,0,0,0,0,0
+5300,2023-2024,Horatio B. Hackett School,Horatio B. Hackett School,1969,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+5320,2023-2024,John F. Hartranft School,John F. Hartranft School,1968,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5330,2023-2024,William H. Hunter School,William H. Hunter School,1909,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5340,2023-2024,James R. Ludlow School,James R. Ludlow School,1927,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5350,2023-2024,William McKinley School,William McKinley School,1970,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5370,2023-2024,John Moffet School,John Moffet School,1973,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+5390,2023-2024,Potter-Thomas School,Potter-Thomas School,1967,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5400,2023-2024,Richmond School,Richmond School,1929,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+5410,2023-2024,Isaac A. Sheppard School,Isaac A. Sheppard School,1898,1,0,0,0,Catchment,District,1,1,1,1,1,0,0,0,0,0,0,0,0
+5420,2023-2024,John Welsh School,John Welsh School,1966,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5430,2023-2024,Alternative Middle Years at James Martin,Alternative Middle Years at James Martin,1985,0,1,0,0,Citywide,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+5440,2023-2024,Frances E. Willard School,Frances E. Willard School,1907,1,0,0,0,Catchment,District,1,1,1,1,1,0,0,0,0,0,0,0,0
+5470,2023-2024,William Cramp School,William Cramp School,1969,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+5480,2023-2024,General Philip Kearny School,General Philip Kearny School,1898,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5490,2023-2024,Cayuga School,Cayuga School,1950,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+5500,2023-2024,Thurgood Marshall School,Thurgood Marshall School,1997,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5520,2023-2024,Kensington High School for Creative and Performing Arts,Kensington High School for Creative and Performing Arts,2005,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5530,2023-2024,Gloria Casarez Elementary School,Gloria Casarez Elementary School,1899,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+5550,2023-2024,Kensington Health Sciences Academy,Kensington Health Sciences Academy,2001,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5560,2023-2024,Spring Garden School,Spring Garden School,1928,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5580,2023-2024,"Stetson, John B. Middle School","Stetson, John B. Middle School",2022,0,1,0,0,Catchment,District,0,0,0,0,0,1,1,1,1,0,0,0,0
+5581,2023-2024,Stetson Middle School Continuation Academy,Stetson Middle School Continuation Academy,2022,0,0,0,1,Alternative,Contracted,0,0,0,0,0,1,1,1,1,0,0,0,0
+5590,2023-2024,John H. Webster School,John H. Webster School,1968,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+5610,2023-2024,Building 21,Building 21,2014,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5620,2023-2024,The U School,The U School,2014,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5660,2023-2024,The LINC,The LINC,2014,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+5680,2023-2024,Honorable Luis Munoz-Marin School,Honorable Luis Munoz-Marin School,1997,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+5700,2023-2024,Kensington High School,Kensington High School,2016,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+6010,2023-2024,Central High School,Central High School,1939,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+6030,2023-2024,Roxborough High School,Roxborough High School,1924,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+6040,2023-2024,Walter B. Saul High School,Walter B. Saul High School,1950,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+6050,2023-2024,Philadelphia High School for Girls,Philadelphia High School for Girls,1956,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+6060,2023-2024,Martin Luther King High School,Martin Luther King High School,1972,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+6090,2023-2024,A. Philip Randolph Career and Technical High School,A. Philip Randolph Career and Technical High School,2004,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+6200,2023-2024,Anna B. Day School,Anna B. Day School,1952,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6210,2023-2024,Franklin S. Edmonds School,Franklin S. Edmonds School,1948,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6220,2023-2024,Eleanor C. Emlen School,Eleanor C. Emlen School,1926,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+6230,2023-2024,Fitler Academics Plus School,Fitler Academics Plus School,1898,1,1,0,0,Citywide,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6250,2023-2024,Charles W. Henry School,Charles W. Henry School,1908,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6260,2023-2024,Henry H. Houston School,Henry H. Houston School,1927,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6270,2023-2024,Jenks Academy for Arts and Sciences,Jenks Academy for Arts and Sciences,1924,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6300,2023-2024,James Logan School,James Logan School,1924,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+6310,2023-2024,John F. McCloskey School,John F. McCloskey School,1956,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6320,2023-2024,Thomas Mifflin School,Thomas Mifflin School,1937,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6340,2023-2024,Joseph Pennell School,Joseph Pennell School,1927,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+6350,2023-2024,Samuel Pennypacker School,Samuel Pennypacker School,1930,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6360,2023-2024,Theodore Roosevelt School,Theodore Roosevelt School,2013,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6380,2023-2024,Shawmont School,Shawmont School,1928,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6390,2023-2024,Edward T. Steel School,Edward T. Steel School,1973,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6400,2023-2024,Widener Memorial School,Widener Memorial School,1953,1,1,1,0,Citywide,District,1,1,1,1,1,1,1,1,1,1,1,1,1
+6410,2023-2024,Cook-Wissahickon School,Cook-Wissahickon School,1969,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6440,2023-2024,Anna L. Lingelbach School,Anna L. Lingelbach School,1955,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6450,2023-2024,James Dobson School,James Dobson School,1930,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+6460,2023-2024,Hill-Freedman World Academy,Hill-Freedman World Academy,1980,0,1,1,0,Criteria-Based,District,0,0,0,0,0,0,1,1,1,1,1,1,1
+6470,2023-2024,John B. Kelly School,John B. Kelly School,1970,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+6480,2023-2024,Academy for the Middle Years at Northwest,Academy for the Middle Years at Northwest,2012,0,1,0,0,Criteria-Based,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+6540,2023-2024,Lankenau High School,Lankenau High School,1987,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+7010,2023-2024,Frankford High School,Frankford High School,1914,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+7060,2023-2024,Olney High School,Olney High School,2022,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+7061,2023-2024,Olney HS Continuation Academy,Olney HS Continuation Academy,2022,0,0,0,1,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+7100,2023-2024,Jay Cooke School,Jay Cooke School,1923,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7110,2023-2024,Warren G. Harding School,Warren G. Harding School,1924,0,1,0,0,Catchment,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+7120,2023-2024,Samuel Fels High School,Samuel Fels High School,1954,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+7130,2023-2024,General Louis Wagner School,General Louis Wagner School,1928,0,1,0,0,Catchment,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+7150,2023-2024,Juniata Park Academy,Juniata Park Academy,2007,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7200,2023-2024,Clara Barton School,Clara Barton School,1925,1,0,0,0,Catchment,District,1,1,1,0,0,0,0,0,0,0,0,0,0
+7220,2023-2024,Laura H. Carnell School,Laura H. Carnell School,1931,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7260,2023-2024,Ellwood School,Ellwood School,1957,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7270,2023-2024,Thomas K. Finletter School,Thomas K. Finletter School,1930,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7280,2023-2024,Benjamin Franklin School,Benjamin Franklin School,1915,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7290,2023-2024,Allen M. Stearne School,Allen M. Stearne School,1968,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7300,2023-2024,Francis Hopkinson School,Francis Hopkinson School,1927,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7310,2023-2024,Feltonville Intermediate School,Feltonville Intermediate School,1908,1,0,0,0,Catchment,District,0,0,0,1,1,1,0,0,0,0,0,0,0
+7320,2023-2024,Julia W. Howe School,Julia W. Howe School,1913,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7330,2023-2024,Henry W. Lawton School,Henry W. Lawton School,1973,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7350,2023-2024,James R. Lowell School,James R. Lowell School,1913,1,0,0,0,Catchment,District,1,1,1,1,1,0,0,0,0,0,0,0,0
+7360,2023-2024,John Marshall School,John Marshall School,1909,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7370,2023-2024,"Grover Washington, Jr. School","Grover Washington, Jr. School",2000,0,1,0,0,Catchment,District,0,0,0,0,0,1,1,1,1,0,0,0,0
+7380,2023-2024,Alexander K. McClure School,Alexander K. McClure School,1910,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7390,2023-2024,Andrew J. Morrison School,Andrew J. Morrison School,1924,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7400,2023-2024,Olney School,Olney School,1900,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7430,2023-2024,James J. Sullivan School,James J. Sullivan School,1930,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7440,2023-2024,Bayard Taylor School,Bayard Taylor School,1907,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7460,2023-2024,William H. Ziegler School,William H. Ziegler School,1957,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7470,2023-2024,Bridesburg School,Bridesburg School,1958,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7490,2023-2024,Prince Hall School,Prince Hall School,1971,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7500,2023-2024,Feltonville School of Arts and Sciences,Feltonville School of Arts and Sciences,1993,0,1,0,0,Catchment,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+7510,2023-2024,Mary M. Bethune School,Mary M. Bethune School,1970,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+7530,2023-2024,William Rowen School,William Rowen School,1938,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+7730,2023-2024,Roberto Clemente School,Roberto Clemente School,1916,0,1,0,0,Catchment,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+8010,2023-2024,Abraham Lincoln High School,Abraham Lincoln High School,1950,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8020,2023-2024,Northeast High School,Northeast High School,1957,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8030,2023-2024,George Washington High School,George Washington High School,1963,0,0,1,0,Catchment,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8040,2023-2024,Arts Academy at Benjamin Rush,Arts Academy at Benjamin Rush,2008,0,0,1,0,Criteria-Based,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8070,2023-2024,OIC CADI,OIC CADI,2004,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8080,2023-2024,Excel Academy North,Excel Academy North,2005,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8090,2023-2024,Swenson Arts and Technology High School,Swenson Arts and Technology High School,2000,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8100,2023-2024,Gateway to College - Community College of Philadelphia,Gateway to College - Community College of Philadelphia,2006,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8120,2023-2024,Castor Gardens Middle School,Castor Gardens Middle School,1928,0,1,0,0,Catchment,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+8130,2023-2024,Northeast Community Propel Academy,Northeast Community Propel Academy,2021,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8160,2023-2024,Baldi School,Baldi School,1971,0,1,0,0,Catchment,District,0,0,0,0,0,0,1,1,1,0,0,0,0
+8190,2023-2024,One Bright Ray - Fairhill Campus,One Bright Ray - Fairhill Campus,2004,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8200,2023-2024,Ethan Allen School,Ethan Allen School,1930,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8210,2023-2024,Joseph H. Brown School,Joseph H. Brown School,1937,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8230,2023-2024,Kennedy C. Crossan School,Kennedy C. Crossan School,1924,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8240,2023-2024,Hamilton Disston School,Hamilton Disston School,1924,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8250,2023-2024,Edwin Forrest School,Edwin Forrest School,1929,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8260,2023-2024,Fox Chase School,Fox Chase School,1949,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8270,2023-2024,Thomas Holme School,Thomas Holme School,1950,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8300,2023-2024,Mayfair School,Mayfair School,1949,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8310,2023-2024,J. Hampton Moore School,J. Hampton Moore School,1952,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8340,2023-2024,Solomon Solis-Cohen School,Solomon Solis-Cohen School,1948,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8350,2023-2024,Gilbert Spruance School,Gilbert Spruance School,1949,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8360,2023-2024,Rhawnhurst School,Rhawnhurst School,1949,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8370,2023-2024,Watson Comly School,Watson Comly School,1929,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8380,2023-2024,Louis H. Farrell School,Louis H. Farrell School,1959,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8390,2023-2024,A.L. Fitzpatrick School,A.L. Fitzpatrick School,1960,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8400,2023-2024,Anne Frank School,Anne Frank School,1962,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8410,2023-2024,Robert B. Pollock School,Robert B. Pollock School,1962,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8420,2023-2024,Stephen Decatur School,Stephen Decatur School,1964,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8430,2023-2024,Joseph Greenberg School,Joseph Greenberg School,1964,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8440,2023-2024,William H. Loesche School,William H. Loesche School,1965,1,0,0,0,Catchment,District,1,1,1,1,1,1,0,0,0,0,0,0,0
+8450,2023-2024,YESPhilly,YESPhilly,2013,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8460,2023-2024,Philadelphia Learning Academy West,Philadelphia Learning Academy West,2009,0,0,1,0,Alternative,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8470,2023-2024,Philadelphia Learning Academy North,Philadelphia Learning Academy North,2009,0,1,1,0,Alternative,District,0,0,0,0,0,0,0,0,1,1,1,1,1
+8540,2023-2024,Pennypack House School,Pennypack House School,1952,0,0,1,0,Alternative,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8560,2023-2024,The Workshop School,The Workshop School,2013,0,0,1,0,Citywide,District,0,0,0,0,0,0,0,0,0,1,1,1,1
+8690,2023-2024,Crossroads Accelerated Academy,Crossroads Accelerated Academy,2009,0,1,1,0,Alternative,District,0,0,0,0,0,0,0,1,1,1,1,0,0
+8770,2023-2024,John Hancock Demonstration School,John Hancock Demonstration School,2016,1,1,0,0,Catchment,District,1,1,1,1,1,1,1,1,1,0,0,0,0
+8780,2023-2024,Philadelphia Virtual Academy,Philadelphia Virtual Academy,2013,1,1,1,0,Virtual,District,1,1,1,1,1,1,1,1,1,1,1,1,1
+8860,2023-2024,One Bright Ray Mansion,One Bright Ray Mansion,2018,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8870,2023-2024,One Bright Ray Mansion Evening,One Bright Ray Mansion Evening,2018,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8890,2023-2024,One Bright Ray - Simpson Campus,One Bright Ray - Simpson Campus,2007,0,0,1,0,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8891,2023-2024,One Bright Ray Simpson - Evening,One Bright Ray Simpson - Evening,2022,0,0,0,1,Alternative,Contracted,0,0,0,0,0,0,0,0,0,1,1,1,1
+8900,2023-2024,Re-Engagement Center,Re-Engagement Center,2008,0,0,1,0,Alternative,District,0,0,0,0,0,0,0,0,0,1,1,1,1
