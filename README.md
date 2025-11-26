@@ -1,8 +1,8 @@
 # Combining CSVs With Slightly Different Schemas
 
-<img style="margin-top:0px;margin-left:0px;width:50vw" src="https://www.dropbox.com/scl/fi/9ff47a76dgt88483dskxm/combining_csvs_post_image.png?rlkey=q6twco5fnr7ly4sw9dtgpvlsc&raw=1" alt="Image showing three CSV files being merged into a single file.">
-
 Merging multiple CSV files with slightly different schemas is a common data challenge, especially when dealing with the classic "extra column" problem. Sometimes those columns are empty, sometimes they’re not. This repository provides three examples for combining CSV files with mismatched schemas into a single, unified dataset for analysis using three Python libraries: Pandas, Polars, and DuckDB.
+
+<img style="margin-top:0px;margin-left:0px;width:50vw" src="https://www.dropbox.com/scl/fi/9ff47a76dgt88483dskxm/combining_csvs_post_image.png?rlkey=q6twco5fnr7ly4sw9dtgpvlsc&raw=1" alt="Image showing three CSV files being merged into a single file.">
 
 --
 
